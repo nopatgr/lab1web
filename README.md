@@ -73,4 +73,5 @@ sebelumnya.
 
 ### Maka hasilnya akan seperti beriku
 
-![lab1web](ss/menambah%20hyperlink.png)
+![lab1web](ss/ss4.png)
+
