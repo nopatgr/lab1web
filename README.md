@@ -5,7 +5,8 @@
 
 # Langkah-langkah Pratikum
 ## membuat  Paragraf
- Disini saya akan menjelaskan cara membuat web dengan HTML. Pertama siapkan apk VSCODE 
+ Disini saya akan menjelaskan cara membuat web dengan HTML. Pertama siapkan apk VSCODE pada gambar dibawah :
+ ![lab1web](ss/langkah1.png)
  
  
 
