@@ -1,3 +1,4 @@
-# << Tugas2 Program Web >>
+#  Tugas2 Program Web 
 # lab 1 web html
-## saya Belajar  
+## Paragraf
+ **disini saya menambahkan paragraf dengan keterangan tag "<p>"**
