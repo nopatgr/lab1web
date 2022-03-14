@@ -18,5 +18,13 @@
 
 # 1. Membuat Paragraf
   
+disini saya akan membuat paragraf sederhana atur atribut untuk melihat perubahannya.Selanjutnya ubah-ubah nilai atributnya (align => justify, left, right, dan center) untuk melihat
+perbedaan lainnya. 
 
-    
+## Gambar Paragraf sebelum di ubah
+
+![lab1web](ss/normal.png)
+
+## Hasil gambar setelah diubah
+
+![lab1web](ss/perubahan.png)
