@@ -40,28 +40,28 @@ paragraf kedua.
 
 # 3. Memformat Teks
 
-## Masukan code teks seperti gambar dibawah untuk melihat perubahan. 
+### Masukan code teks seperti gambar dibawah untuk melihat perubahan. 
 
 
 ![lab1web](ss/format%20teks.png)
 
-## lalu klik kanan dan hasilnya akan muncul seperti ini 
+### lalu klik kanan dan hasilnya akan muncul seperti ini 
 
 ![lab1web](ss/hasil%20format.png)
 
 # 4. Menyisipkan Gambar
 
-## Untuk menyisipkan gmbar, siapkan gambar yang akan disisipkan pada halaman web, kemudian
-simpan file gambar tersebut satu folder dengan file dokumen html.
+### Untuk menyisipkan gmbar, siapkan gambar yang akan disisipkan pada halaman web, kemudian
+### simpan file gambar tersebut satu folder dengan file dokumen html.
 
 ![lab1web](ss/menyisipkan%20gambar.png)
 
-## Kemudian tambahkan tag img setelah paragraf yang kedua, dengan menambahkan heading 3
+### Kemudian tambahkan tag img setelah paragraf yang kedua, dengan menambahkan heading 3
 sebelumnya.
 
 ![lab1web](ss/heading3.png)
 
-## Simpan perubahannya, kemudian refresh browser,maka akan muncul seperti gambar berikut 
+### Simpan perubahannya, kemudian refresh browser,maka akan muncul seperti gambar berikut 
 
 ![lab1web](ss/ss3.png)
 
