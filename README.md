@@ -1,10 +1,11 @@
-#  **Tugas2 Program Web** 
+<tb>#  **Tugas2 Program Web** 
 ## lab 1 web html
 ## Nama : Nova Tegar Adiyansyah
-## Nim  : 312010145
+## Nim  : 312010145 <tb>
 
 # Langkah-langkah Pratikum
-## 1. membuat  Paragraf
+
+
  Disini saya akan menjelaskan cara membuat web dengan HTML. Pertama siapkan apk VSCODE pada gambar dibawah :
  ![lab1web](ss/langkah1.png)
 
@@ -14,6 +15,8 @@
 kemudian <b>klik kanan</b> pilih open with live server.saya Menggunakan <b> Google Chrome </b>
 ![lab1web](ss/langkah3.png)
 
+
+# 1. Membuat Paragraf
   
 
     
