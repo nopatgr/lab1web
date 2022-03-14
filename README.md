@@ -28,3 +28,12 @@ perbedaan lainnya.
 ## Hasil gambar setelah diubah
 
 ![lab1web](ss/perubahan.png)
+
+# 2. Menambahkan Judul 
+
+Seperti sudah dijelaskan pada materi bahwa judul memiliki 6 level yaitu mulai h1 sampai h6.
+Kemudian tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub judul h2 sebelum
+paragraf kedua.
+seperti Gambar dibawah :
+
+![lab1web](ss/ss2.png)
