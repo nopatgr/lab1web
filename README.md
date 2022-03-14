@@ -67,4 +67,10 @@ sebelumnya.
 
 # 5. Menambahkan Hyperlinks
 
+### Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut :
 
+![lab1web](ss/hyperlinks.png)
+
+### Maka hasilnya akan seperti beriku
+
+![lab1web](ss/menambah%20hyperlink.png)
