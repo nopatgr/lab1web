@@ -34,6 +34,6 @@ perbedaan lainnya.
 Seperti sudah dijelaskan pada materi bahwa judul memiliki 6 level yaitu mulai h1 sampai h6.
 Kemudian tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub judul h2 sebelum
 paragraf kedua.
-seperti Gambar dibawah :
+<br>saat di klik kanan hasinya akan seprti gambar dibawah : 
 
 ![lab1web](ss/ss2.png)
