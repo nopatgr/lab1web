@@ -1,5 +1,5 @@
-<tb>#  **Tugas2 Program Web** 
-## lab 1 web html
+#  **Tugas2 Program Web** 
+## <tb>lab 1 web html
 ## Nama : Nova Tegar Adiyansyah
 ## Nim  : 312010145 <tb>
 
