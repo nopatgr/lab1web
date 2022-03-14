@@ -2,4 +2,4 @@
 # lab 1 web html
 ## Paragraf
  **disini saya menambahkan paragraf dengan keterangan tag "<p>"**
- ![lab1web](ss/pengertian.png) 
+ ![ss](ss/pengertian.png) 
