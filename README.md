@@ -105,8 +105,8 @@ _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 
 4. Karena jika menggunakan keduanya ukurannya web tidak simetris. sedangkan jika hanya menggunakan salah satu ukurannya akan bertambah besar secara simetris.
 
-5. <_ blank > membuka link di tab baru
-    <_ self > membuka link di frame link itu berada
-    <_ top > Untuk membuka link di frame paling atas.contohnya jika website A didalam ada website B lalu website B di dalamnya ada website C lalu website C ini ada link dan kita klik, maka link akan terbuka di website C
-    < _ parent > untuk membuka link di frame yang satu tingkat di atas frame link tersebut berada.
+5. <_blank > membuka link di tab baru
+   <br> < _self > membuka link di frame link itu berada
+   <br> < _top > Untuk membuka link di frame paling atas.contohnya jika website A didalam ada website B lalu website B di dalamnya ada website C lalu website C ini ada link dan kita klik, maka link akan terbuka di website C
+    <br> < _parent > untuk membuka link di frame yang satu tingkat di atas frame link tersebut berada.
 
