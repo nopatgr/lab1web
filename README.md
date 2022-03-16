@@ -78,17 +78,35 @@ Maka hasilnya akan seperti berikut
 ![lab1web](ss/ss4.png)
 
 
-#               TERIMAKASIH
+
+
+
+
 
 
 ## Jawab Pertanyaan Berikut
 
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah 
 error ketika terjadi kesalahan penulisan tag?
-2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
-3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
+2. Apa perbedaan dari tag < p > dengan tag < br >, berikan penjelasannya!
+3. Apa perbedaan atribut title dan alt pada tag < img >, berikan penjelasannya!
 4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar 
 proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, 
 _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
+
+## Jawaban
+
+1. Disini saya melakukan perubahan dengan menghilangkan tag < /h > Menjadi < h1 > maka seluruh elemen akan mengikuti tag < h1 > karena tidak ada penutup
+
+2. Tag < p > untuk memberikan perintah paragraf pada html tag. Sedangkan < br > berfungsi untuk memberikan perintah breakline atau baris baru.
+
+3. <b> title </b> berfungsi untuk memberikan judul pada gambar. <b> alt </b> berfungsi untuk menunjukan sebuah alternatif teks apabila gambar tidak dapat ditampilkan.
+
+4. Karena jika menggunakan keduanya ukurannya web tidak simetris. sedangkan jika hanya menggunakan salah satu ukurannya akan bertambah besar secara simetris.
+
+5. <_ blank > membuka link di tab baru
+    <_ self > membuka link di frame link itu berada
+    <_ top > Untuk membuka link di frame paling atas.contohnya jika website A didalam ada website B lalu website B di dalamnya ada website C lalu website C ini ada link dan kita klik, maka link akan terbuka di website C
+    < _ parent > untuk membuka link di frame yang satu tingkat di atas frame link tersebut berada.
 
