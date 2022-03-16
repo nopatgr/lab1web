@@ -87,7 +87,7 @@ Maka hasilnya akan seperti berikut
 
 
 
-## Jawab Pertanyaan Berikut
+## Jawab Pertanyaan Berikut<br>
 
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah 
 error ketika terjadi kesalahan penulisan tag?
@@ -98,7 +98,7 @@ proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan pe
 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, 
 _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 
-## Jawaban
+## Jawaban<br>
 
 1. Disini saya melakukan perubahan dengan menghilangkan tag < /h > Menjadi < h1 > maka seluruh elemen akan mengikuti tag < h1 > karena tidak ada penutup
 
@@ -108,8 +108,8 @@ _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 
 4. Karena jika menggunakan keduanya ukurannya web tidak simetris. sedangkan jika hanya menggunakan salah satu ukurannya akan bertambah besar secara simetris.
 
-5. <_blank > membuka link di tab baru
-   <br> < _self > membuka link di frame link itu berada
-   <br> < _top > Untuk membuka link di frame paling atas.contohnya jika website A didalam ada website B lalu website B di dalamnya ada website C lalu website C ini ada link dan kita klik, maka link akan terbuka di website C.<br>
-    <br> < _parent > untuk membuka link di frame yang satu tingkat di atas frame link tersebut berada.
+5. <_blank > membuka link di tab baru.<br>
+    < _self > membuka link di frame link itu berada.<br>
+    < _top > Untuk membuka link di frame paling atas.contohnya jika website A didalam ada website B lalu website B di dalamnya ada website C lalu website C ini ada link dan kita klik, maka link akan terbuka di website C.<br>
+    < _parent > untuk membuka link di frame yang satu tingkat di atas frame link tersebut berada.<br>
 
