@@ -78,10 +78,8 @@ Maka hasilnya akan seperti berikut
 ![lab1web](ss/ss4.png)
 
 
-
-
-
-
+<br>
+<br>
 
 
 ## Jawab Pertanyaan Berikut
