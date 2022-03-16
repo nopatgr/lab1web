@@ -77,3 +77,5 @@ Maka hasilnya akan seperti berikut
 
 ![lab1web](ss/ss4.png)
 
+
+            # TERIMAKASIH 
