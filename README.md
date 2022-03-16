@@ -1,9 +1,9 @@
 #  **Tugas 2 Program Web** 
 
-## Belajar HTML Dasar
-## Nama     : Nova Tegar Adiyansyah
-## Nim      : 312010145
-## Kelas    : TI.20.A1
+## Belajar HTML Dasar <br><br>
+## Nama     : Nova Tegar Adiyansyah<br>
+## Nim      : 312010145<br>
+## Kelas    : TI.20.A1<br>
 
 # Langkah-langkah Praktikum
 
@@ -75,10 +75,15 @@ Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut :
 
 Maka hasilnya akan seperti berikut
 
-![lab1web](ss/ss4.png) <br>
+![lab1web](ss/ss4.png) 
 
 
+<br>
+<hr>
+<br>
 
+## ========== TERIMA KASIH ========== <br>
+## ================================== <br>
 
 
 
