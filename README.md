@@ -75,11 +75,11 @@ Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut :
 
 Maka hasilnya akan seperti berikut
 
-![lab1web](ss/ss4.png)
+![lab1web](ss/ss4.png) <br>
 
 
-<br>
-<br>
+
+
 
 
 ## Jawab Pertanyaan Berikut
