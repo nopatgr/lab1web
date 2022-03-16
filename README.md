@@ -5,7 +5,7 @@
 ## Nim      : 312010145<br>
 ## Kelas    : TI.20.A1<br>
 
-# Langkah-langkah Praktikum
+# Langkah-langkah Praktikum<br>
 
 
 Disini saya akan menjelaskan cara membuat web dengan HTML. Pertama siapkan apk VSCODE pada gambar dibawah :
@@ -15,7 +15,7 @@ Buat file baru dengan nama <b>lab1_tag_dasar.HTML</b>
  ![lab1web](ss/langkah2.png)
  
 kemudian <b>klik kanan</b> pilih open with live server.saya Menggunakan <b> Google Chrome </b>
-![lab1web](ss/langkah3.png)
+![lab1web](ss/langkah3.png)<br>
 
 
 # 1. Membuat Paragraf
@@ -29,7 +29,7 @@ perbedaan lainnya.
 
  Hasil gambar setelah diubah
 
-![lab1web](ss/perubahan.png)
+![lab1web](ss/perubahan.png)<br>
 
 # 2. Menambahkan Judul 
 
@@ -38,7 +38,7 @@ Kemudian tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub judul h2 
 paragraf kedua.
 <br>saat di klik kanan hasinya akan seprti gambar dibawah : 
 
-![lab1web](ss/ss2.png)
+![lab1web](ss/ss2.png)<br>
 
 # 3. Memformat Teks
 
@@ -49,7 +49,7 @@ Masukan code teks seperti gambar dibawah untuk melihat perubahan.
 
  lalu klik kanan dan hasilnya akan muncul seperti ini 
 
-![lab1web](ss/hasil%20format.png)
+![lab1web](ss/hasil%20format.png)<br>
 
 # 4. Menyisipkan Gambar
 
@@ -65,7 +65,7 @@ sebelumnya.
 
 Simpan perubahannya, kemudian refresh browser,maka akan muncul seperti gambar berikut 
 
-![lab1web](ss/ss3.png)
+![lab1web](ss/ss3.png)<br>
 
 # 5. Menambahkan Hyperlinks
 
@@ -75,7 +75,7 @@ Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut :
 
 Maka hasilnya akan seperti berikut
 
-![lab1web](ss/ss4.png) 
+![lab1web](ss/ss4.png) <br>
 
 
 <br>
