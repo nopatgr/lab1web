@@ -83,7 +83,7 @@ Maka hasilnya akan seperti berikut
 <br>
 
 ## ========== TERIMA KASIH ========== <br>
-## ================================== <br>
+## ================================ <br>
 
 
 
@@ -110,6 +110,6 @@ _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 
 5. <_blank > membuka link di tab baru
    <br> < _self > membuka link di frame link itu berada
-   <br> < _top > Untuk membuka link di frame paling atas.contohnya jika website A didalam ada website B lalu website B di dalamnya ada website C lalu website C ini ada link dan kita klik, maka link akan terbuka di website C
+   <br> < _top > Untuk membuka link di frame paling atas.contohnya jika website A didalam ada website B lalu website B di dalamnya ada website C lalu website C ini ada link dan kita klik, maka link akan terbuka di website C.<br>
     <br> < _parent > untuk membuka link di frame yang satu tingkat di atas frame link tersebut berada.
 
