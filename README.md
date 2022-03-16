@@ -1,10 +1,11 @@
 #  **Tugas 2 Program Web** 
 
-## lab 1 web html
-## Nama : Nova Tegar Adiyansyah
-## Nim  : 312010145
+## Belajar HTML Dasar
+## Nama     : Nova Tegar Adiyansyah
+## Nim      : 312010145
+## Kelas    : TI.20.A1
 
-# Langkah-langkah Pratikum
+# Langkah-langkah Praktikum
 
 
 Disini saya akan menjelaskan cara membuat web dengan HTML. Pertama siapkan apk VSCODE pada gambar dibawah :
